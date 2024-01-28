@@ -5,5 +5,5 @@ How To Use?
 2. Install every app you want
 Now you are done using this app and i hope you like it:)
 You Can tell me apps to add this tool.
-
-
+  <br />
+  Install it from RELEASES!   <br />
